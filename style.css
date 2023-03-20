@@ -43,7 +43,7 @@ body {
     padding-bottom: 15px;
 }
 
-text p {
+.text p {
     color: hsl(220, 15%, 55%);
 
 }
